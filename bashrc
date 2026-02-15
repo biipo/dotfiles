@@ -51,6 +51,7 @@ fi
 
 
 #export PS1="\w > "
+PS1='\h:\W \u\$ '
 
 
 # enable color support of ls and also add handy aliases
