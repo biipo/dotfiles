@@ -1,6 +1,6 @@
 # This is the configuration file for Ghostty.
 
-font-family = "Google Sans Code"
+font-family = "IosevkaTerm Nerd Font Regular"
 font-size = 13
 
 cursor-style = block

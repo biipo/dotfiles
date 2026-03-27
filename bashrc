@@ -51,7 +51,9 @@ fi
 
 
 #export PS1="\w > "
-PS1='\h:\W \u\$ '
+#PS1='\h:\W \u\$ '
+#PS1="\u@\h:\w\$ "
+PS1="\[\e[38;5;39m\]\u\[\e[0m\]\[\e[38;5;245m\]@\[\e[38;5;208m\]\h \[\e[38;5;245m\]in \[\e[38;5;76m\]\w\[\e[0m\]\n\[\e[38;5;39m\]❯\[\e[0m\] "
 
 
 # enable color support of ls and also add handy aliases
